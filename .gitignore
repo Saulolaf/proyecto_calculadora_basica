@@ -1,0 +1,8 @@
+# Ingnorar bytecode compila de Python y carpetas de cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+#Entornos virtuales
+venv/
+.env
